@@ -1,0 +1,18 @@
+{
+    "pengajuan": [
+        {
+            "idpengajuan": 1,
+            "judulpengajuan": "Ayo kasih aku rekomendasi outer!",
+            "namapengaju": "Putri",
+            "kategori": "Fashion",
+            "status": "Belum disetujui"
+        },
+        {
+            "idpengajuan": 2,
+            "judulpengajuan": "Tips pake snapback dong!",
+            "namapengaju": "Jamal",
+            "kategori": "Fashion",
+            "status": "Belum disetujui"
+        }
+    ]
+}

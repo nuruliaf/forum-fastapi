@@ -1,0 +1,18 @@
+{
+    "admin": [
+        {
+            "idadm": 1,
+            "nama": "Nurul Izza A",
+            "username": "nuruliaf",
+            "password": "123",
+            "notelp": "0812525252"
+        },
+        {
+            "idadm": 2,
+            "nama": "Muhammad Nuril",
+            "username": "nurilye",
+            "password": "234",
+            "notelp": "0898989898"
+        }
+    ]
+}

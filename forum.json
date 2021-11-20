@@ -1,0 +1,34 @@
+{
+    "forum": [
+        {
+            "idforum": 1,
+            "judulforum": "Rekomendasi fashion untuk kuliah",
+            "namapengirim": "Nadilla Putri",
+            "kategori": "Fashion"
+        },
+        {
+            "idforum": 2,
+            "judulforum": "Sharing Time! My opinion about high fashion brand",
+            "namapengirim": "Elisabeth",
+            "kategori": "Fashion"
+        },
+        {
+            "idforum": 3,
+            "judulforum": "Coba-coba fashion terbaru yuk!",
+            "namapengirim": "Ciko",
+            "kategori": "Fashion"
+        },
+        {
+            "idforum": 4,
+            "judulforum": "Alasan kenapa brand fashion lokal udah mulai mendunia",
+            "namapengirim": "Mavin",
+            "kategori": "Fashion"
+        },
+        {
+            "idforum": 5,
+            "judulforum": "Yuk share pengalaman belanja baju di LookatMe",
+            "namapengirim": "Izza",
+            "kategori": "Fashion"
+        }
+    ]
+}
